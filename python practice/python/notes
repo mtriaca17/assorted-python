@@ -1,0 +1,19 @@
+bubblesort
+	iterate through a list, comparing adjacent items swapping them when in order
+	ex
+	1 3 5 2 4
+	1, 3 correct, 3, 5 correct; 5,2 swap
+	1 3 2 5 4
+	5, 4 needs to be swapped
+	1 3 2 4 5 
+	1, 3 ok, 2 3 need to be swapped
+	1 2 3 4 5 
+	sorted!
+
+	strengths
+		- nice intro
+		- easy to understand
+
+merge sort
+	pretty cool
+	divide and conquer, keep splitting the input then bring it back together 
